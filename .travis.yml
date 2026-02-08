@@ -1,0 +1,4 @@
+language: minimal
+
+script:
+  - echo "Travis CI build is running"
